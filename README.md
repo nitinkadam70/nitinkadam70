@@ -13,8 +13,6 @@ Hardworking Full Stack Developer having the ability to problem-solving with spec
 
 🌱 I’m currently learning Data Structures and Algorithms.
 
-👨‍💻 All of my projects are available at My <a href="https://scintillating-travesseiro-25456b.netlify.app/">Portfolio</a>
-
 📫 Reach me nitinakadam1999@gmail.com 
 
 ⚡ Fun fact I enjoy coding
