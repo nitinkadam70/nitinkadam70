@@ -39,5 +39,8 @@ Hardworking Full Stack Developer having the ability to problem-solving with spec
 
 ## 🌐Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nitin-kadam-6612831b3/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@nitinkadam70) 
+
+
 
 
