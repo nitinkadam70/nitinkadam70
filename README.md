@@ -35,11 +35,25 @@ Hardworking Full Stack Developer having the ability to problem-solving with spec
 ![](https://github-readme-stats.vercel.app/api?username=nitinkadam70&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nitinkadam70&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkadam70&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+<br/>
+<a href="https://github.com/nitinkadam70-readme-activity-graph"><img alt="nitin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nitinkadam70&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ## 🌐Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nitin-kadam-6612831b3/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@nitinkadam70) 
+<p>
+    <a href="https://twitter.com/nitinkadam70" target="_open">
+        <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/nitin-kadam-6612831b3" target="_open">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a> 
+  <a href="https://medium.com/@nitinkadam70" target="_open">
+        <img alt="medium" src="https://img.shields.io/badge/medium-%2312100E?style=for-the-badge&logo=medium&logoColor" />
+    </a>
+  <a href="mailto:nitinakadam1999@gmail.com" target="_open">
+        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  
+</p>
 
 
 
