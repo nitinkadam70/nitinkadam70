@@ -1,5 +1,5 @@
 
-<h2>Hi 👋, I'm Nitin Kadam</h2>
+<h2>Hi 👋, I'm Nitin Kadam</h2> 
 
 Hardworking Full Stack Developer having the ability to problem-solving with specialization in MERN stack, having a great eye for details and always ready to learn new things in technology, developing interpersonal skills but having good team management leadership and can communicate well so looking for an opportunity to work in suitable position and technology-driven organization.
 
@@ -7,9 +7,8 @@ Hardworking Full Stack Developer having the ability to problem-solving with spec
 
 
 🙋‍♂️ About Me 
-<hr/>
 
-[![](https://visitcount.itsvg.in/api?id=nitinkadam70&icon=0&color=1)](https://visitcount.itsvg.in)
+<hr/>
 
 🔭 I’m currently working on React
 
