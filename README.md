@@ -7,6 +7,10 @@ Hardworking Full Stack Developer having the ability to problem-solving with spec
 
 <hr/>
 
+<br/>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
+
+
 🌎 I’m belongs to Parbhani, Maharashtra
 
 🌱 I’m currently learning Full Stack Web Development
