@@ -17,9 +17,9 @@ Hardworking Full Stack Developer having the ability to problem-solving with spec
 
 💬 Ask me about JavaScript, React
 
-📫 Reach me <a href="mailto:nitinakadam1999@gmail.com">nitinakadam1999@gmail.com</a> 
+📫 Reach me <a href="mailto:nitinakadam1999@gmail.com">Email</a> 
 
-💻 Portfolio <a href="https://nitin-kadam-portfolio.netlify.app/">nitin-kadam-portfolio.netlify.app/</a> 
+📄 Know about my experiences <a href="https://drive.google.com/file/d/1xKs9q5SYS-FzsanSe4zaKVEoz4h0lqmO/view">Resume</a> 
 
 ⚡ Fun fact I enjoy coding
 
