@@ -1,6 +1,6 @@
 <h2>Hi 👋, I'm Nitin Kadam</h2> 
 
-Hardworking Full Stack Developer having the ability to problem-solving with specialization in MERN stack, having a great eye for details and always ready to learn new things in technology, developing interpersonal skills but having good team management leadership and can communicate well so looking for an opportunity to work in suitable position and technology-driven organization.
+Full Stack Developer having the ability to problem-solving with specialization in MERN stack, having a great eye for details and always ready to learn new things in technology, developing interpersonal skills but having good team management leadership and can communicate well so looking for an opportunity to work in suitable position and technology-driven organization.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinkadam70&label=Profile%20views&color=0e75b6&style=flat" alt="nitinkadam70" /> </p>
 
 🙋‍♂️ About Me 
