@@ -41,10 +41,9 @@ Full Stack Developer having the ability to problem-solving with specialization i
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=nitinkadam70&theme=react&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nitinkadam70&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkadam70&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <br/>
+
 
 ## 🌐Connect with me:
 <p>
