@@ -45,7 +45,6 @@ Full Stack Developer having the ability to problem-solving with specialization i
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nitinkadam70&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkadam70&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <br/>
-<a href="https://github.com/nitinkadam70-readme-activity-graph"><img alt="nitin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nitinkadam70&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ## 🌐Connect with me:
 <p>
