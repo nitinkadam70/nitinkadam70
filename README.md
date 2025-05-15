@@ -13,7 +13,7 @@ Full Stack Developer having the ability to problem-solving with specialization i
 
 🌎 I’m belongs to Parbhani, Maharashtra
 
-🌱 I’m currently learning Full Stack Web Development
+🌱 I’m currently Working as a Full Stack Web Development at Eminenture
 
 💬 Ask me about JavaScript, React
 
