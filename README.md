@@ -1,6 +1,6 @@
 <h2>Hi 👋, I'm Nitin Kadam</h2> 
 
-Full Stack Developer having the ability to problem-solving with specialization in MERN stack, having a great eye for details and always ready to learn new things in technology, developing interpersonal skills but having good team management leadership and can communicate well so looking for an opportunity to work in suitable position and technology-driven organization.
+Full Stack Developer with over 2.1 years of experience specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). Adept at problem-solving, with a keen eye for detail and a strong passion for learning emerging technologies. Known for effective communication, leadership, and team management skills, complemented by a continuous drive to enhance interpersonal abilities. Always ready to take on new challenges, I'm seeking an opportunity to contribute meaningfully in a technology-driven organization where I can grow professionally in a suitable and impactful role.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinkadam70&label=Profile%20views&color=0e75b6&style=flat" alt="nitinkadam70" /> </p>
 
 🙋‍♂️ About Me 
