@@ -7,7 +7,6 @@ Full Stack Developer with over 2.1+ years of experience specializing in the MERN
 
 <hr/>
 
-<br/>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
 
 
