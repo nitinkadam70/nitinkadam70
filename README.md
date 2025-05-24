@@ -1,6 +1,6 @@
 <h2>Hi 👋, I'm Nitin Kadam</h2> 
 
-Full Stack Developer with over 2.1 years of experience specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). Adept at problem-solving, with a keen eye for detail and a strong passion for learning emerging technologies. Known for effective communication, leadership, and team management skills, complemented by a continuous drive to enhance interpersonal abilities. Always ready to take on new challenges, I'm seeking an opportunity to contribute meaningfully in a technology-driven organization where I can grow professionally in a suitable and impactful role.
+Full Stack Developer with over 2.1+ years of experience specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). Adept at problem-solving, with a keen eye for detail and a strong passion for learning emerging technologies. Known for effective communication, leadership, and team management skills, complemented by a continuous drive to enhance interpersonal abilities. Always ready to take on new challenges, I'm seeking an opportunity to contribute meaningfully in a technology-driven organization where I can grow professionally in a suitable and impactful role.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinkadam70&label=Profile%20views&color=0e75b6&style=flat" alt="nitinkadam70" /> </p>
 
 🙋‍♂️ About Me 
@@ -19,7 +19,9 @@ Full Stack Developer with over 2.1 years of experience specializing in the MERN 
 
 📫 Reach me <a href="mailto:nitinakadam1999@gmail.com">Email</a> 
 
-📄 Know about my experiences <a href="https://drive.google.com/file/d/1xKs9q5SYS-FzsanSe4zaKVEoz4h0lqmO/view">Resume</a> 
+📄 Know about my experiences <a href="[https://drive.google.com/file/d/1xKs9q5SYS-FzsanSe4zaKVEoz4h0lqmO/view](https://drive.google.com/file/d/16sZ2tIc3gmxaGIH2QfYSlLT_plIHJtPm/view?usp=sharing)">Resume</a> 
+
+👨‍💻 All my projects are available at my  <a href="https://nitinpatil-portfolio.vercel.app">Portfolio</a> 
 
 ⚡ Fun fact I enjoy coding
 
